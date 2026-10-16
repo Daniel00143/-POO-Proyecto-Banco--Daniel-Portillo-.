@@ -4,7 +4,9 @@ Tarea 1
 
 ## 📋 Datos del Alumno
 [Daniel Enoc Portillo Reyes]
+
 [20252000662]
+
 Programación Orientada a Objetos
 
 
